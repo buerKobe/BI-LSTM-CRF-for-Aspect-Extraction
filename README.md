@@ -1,4 +1,4 @@
-# BI-LSTM-CRF-for-Aspect-Extraction
+# BI-LSTM-CRF-for-Aspect-Extraction-Sentiment-Extraction
 
 pre_data.py   ->    generate a dictinoary for random embedding and label2tag
 
